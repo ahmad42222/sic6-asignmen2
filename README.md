@@ -1,1 +1,1 @@
-# sic6-asignmen2
+# sic6-asignment2
